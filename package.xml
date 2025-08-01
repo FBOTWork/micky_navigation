@@ -1,10 +1,10 @@
 <package>
-  <name>turtlebot_navigation</name>
+  <name>micky_navigation</name>
   <version>2.3.7</version>
-  <description>turtlebot_navigation</description>
+  <description>micky_navigation</description>
   <maintainer email="turtlebot@osrfoundation.org">OSRF</maintainer>
   <license>BSD</license>
-  <url type="website">http://ros.org/wiki/turtlebot_navigation</url>
+  <url type="website">http://ros.org/wiki/micky_navigation</url>
   <url type="repository">https://github.com/turtlebot/turtlebot_apps</url>
   <url type="bugtracker">https://github.com/turtlebot/turtlebot_apps/issues</url>
   <author>Tully Foote</author>
